@@ -33,6 +33,7 @@ switch (month) {
     break;
 }
 
+
 //using if-else 
 if (month == 1) {
   console.log("jan");
