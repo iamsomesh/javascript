@@ -9,6 +9,7 @@
 // 0n	
 // ""
 
+
 user = 0 //falsy values - 0,-0,null, undefined, NaN, false,0n(BigInt), ""
 
 if(user){
