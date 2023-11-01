@@ -1,5 +1,6 @@
 // /ternary operator
 
+
 // condition ? true statement : false statement
 
 let score = 200
